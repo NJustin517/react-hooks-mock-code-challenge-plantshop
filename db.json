@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": "0.33"
     },
     {
       "id": 6,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Flowers",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lifestyle-amazonplants-1629909010.jpg?crop=0.684xw:1.00xh;0.159xw,0&resize=640:*",
+      "price": "25.00",
+      "id": 8
     }
   ]
 }
